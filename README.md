@@ -1,5 +1,3 @@
-# pandat-panengine
-
 I am creating this repository for refering to pandat/panengine workflow.
 
 ## Getting composition from panengine source:
@@ -30,6 +28,6 @@ I am creating this repository for refering to pandat/panengine workflow.
 
 * Execute and then choose 8:
 
-./main2
+> ./main2
 
 * Convert test_8.dat to csv using hessian_ternary.ipynb.
