@@ -14,7 +14,7 @@ I am creating this repository for refering to pandat/panengine workflow.
 
 > ./main2
 
-* Convert test_8.dat to csv using composition_ternary.ipynb.
+* Convert test_8.dat to csv using composition_ternary.ipynb
 
 ## Getting hessian from panengine source:
 
@@ -30,4 +30,12 @@ I am creating this repository for refering to pandat/panengine workflow.
 
 > ./main2
 
-* Convert test_8.dat to csv using hessian_ternary.ipynb.
+* Convert test_8.dat to csv using hessian_ternary.ipynb
+
+## Getting temperature range for phases and thermal data from pandat:
+
+* Check line_plot_instructions.md
+
+## Getting precipitation plots from pandat:
+
+* Check precipitation_instructions.md
