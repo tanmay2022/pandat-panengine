@@ -10,7 +10,7 @@ I am creating this repository for refering to pandat/panengine workflow.
 
 * To create executable:
 
-> g++-4.8 -o main2 PanEngineTest_1.o PanEngineTest_2.o PanEngineTest_3.o PanEngineTest_4.o PanEngineTest_5.o composition.o PanEngineTest_7.o hessian.o PanEngineTest_9.o main2.o -L /home/abhik/lib/linux -lPanEngineX -lboost_regex -lhasp_linux_x86_64_57714 -lPanHasp -lPanSolverX
+> g++-4.8 -o main2 PanEngineTest_1.o PanEngineTest_2.o PanEngineTest_3.o PanEngineTest_4.o PanEngineTest_5.o dendritetip.o PanEngineTest_7.o composition.o PanEngineTest_9.o main2.o -L /home/abhik/lib/linux -lPanEngineX -lboost_regex -lhasp_linux_x86_64_57714 -lPanHasp -lPanSolverX
 
 * Execute and then choose 8:
 
@@ -28,7 +28,7 @@ I am creating this repository for refering to pandat/panengine workflow.
 
 * To create executable:
 
-> g++-4.8 -o main2 PanEngineTest_1.o PanEngineTest_2.o PanEngineTest_3.o PanEngineTest_4.o PanEngineTest_5.o composition.o PanEngineTest_7.o hessian.o PanEngineTest_9.o main2.o -L /home/abhik/lib/linux -lPanEngineX -lboost_regex -lhasp_linux_x86_64_57714 -lPanHasp -lPanSolverX
+> g++-4.8 -o main2 PanEngineTest_1.o PanEngineTest_2.o PanEngineTest_3.o PanEngineTest_4.o PanEngineTest_5.o dendritetip.o PanEngineTest_7.o hessian.o PanEngineTest_9.o main2.o -L /home/abhik/lib/linux -lPanEngineX -lboost_regex -lhasp_linux_x86_64_57714 -lPanHasp -lPanSolverX
 
 * Execute and then choose 8:
 
